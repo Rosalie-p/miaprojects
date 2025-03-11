@@ -15,19 +15,7 @@ The project demonstrates Object-Oriented Programming (OOP) principles, collectio
 - Concurrency (synchronization for thread safety)
 - LocalDate API (for date handling)
 
-## 📂 Project Structure
-```
-JavaProjects/
-│── src/
-│   │── Main.java        # Runs the program (menu-driven)
-│   │── Hotel.java       # Manages rooms & bookings
-│   │── Room.java        # Defines room attributes
-│   │── Booking.java     # Stores booking details
-│   │── Visitor.java     # Stores visitor details
-│── README.md           # Project documentation
-│── .gitignore          # Git ignore file
-│── LICENSE             # Project license (optional)
-```
+
 
 ## 🚀 How to Run
 1️⃣ Clone the Repository
@@ -74,8 +62,6 @@ Room added successfully!
 4. Push to GitHub (`git push origin feature-branch`)
 5. Submit a Pull Request
 
-## 📜 License
-This project is licensed under the MIT License.
 
 ## 📧 Contact
 If you have any questions, feel free to reach out:
